@@ -1,0 +1,5 @@
+# ignore IDEA files
+.idea
+
+#Ignore LOG files 
+npm-debug.log
