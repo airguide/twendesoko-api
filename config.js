@@ -4,5 +4,5 @@
 
 module.exports = {
     'port': process.env.PORT || 8080,
-    'database': 'mongodb://localhost:27017/ts'
+    'database': 'mongodb://twendesoko:zCPnWjYnEUJ3gqotG21kH8vRSynTe8e6kVPiuRHzJ1EA7iVNG2l3lMEFcxwFD0oX4Nv7VnSlAUvyutV3EavKXw==@twendesoko.documents.azure.com:10250/?ssl=true'
 };
